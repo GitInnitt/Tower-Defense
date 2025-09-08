@@ -35,17 +35,17 @@ Vijand 2 naam: Ranger, snelheid: 4, levens: 7 (2 extra levens per wave), damage:
 Vijand 3 naam: Tank, snelheid: 2, levens: 15 (2 extra levens per wave), damage: 5, speciale eigenschap: is sterker dan normale zombies maar lopen wat slomer.
 
 6. Gameplay loop
-1. Schiet enemies
-2. Krijg coins voor enemies killen
-3. Spendeer de coins in de shop voor upgrades
-4. Haal een zo hoog mogelijke high score
-5. unlock alle characters
+-Schiet enemies
+-Krijg coins voor enemies killen
+-Spendeer de coins in de shop voor upgrades
+-Haal een zo hoog mogelijke high score
+-unlock alle characters
 
 7. Progressie
 Leg uit hoe het spel moeilijker wordt naarmate de waves doorgaan. Denk aan sterkere vijanden, kortere tussenpozen, hogere kosten of lagere beloningen.
 Elke wave krijgt elke enemy 2 levens extra en spawnen er meer enemies. Betere heroes gaan steeds meer coins kosten en betere team ups gaan meer abillity fluid kosten.
 
-9. Risico’s en oplossingen volgens PIO
+8. Risico’s en oplossingen volgens PIO
 Probleem 1: Enemies volgen pad niet.
 
 Impact: De enemies lopen niet hoe ze horen te lopen
@@ -82,7 +82,7 @@ Heb geen specifieke tower defense game waar ik inspiratie van haal maar verschil
 -Marvel Rivals - Characters en enemies
 -Clash Royale - Abillity Fluid
 
-12. Technisch ontwerp mini
+11. Technisch ontwerp mini
 Lees dit korte voorbeeld en vul daarna jouw eigen keuzes in.
 (Maak deze later)
 
