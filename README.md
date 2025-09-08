@@ -36,16 +36,20 @@ Vijand 3 naam: Tank, snelheid: 2, levens: 15 (2 extra levens per wave), damage: 
 
 6. Gameplay loop
 -Schiet enemies
+
 -Krijg coins voor enemies killen
+
 -Spendeer de coins in de shop voor upgrades
+
 -Haal een zo hoog mogelijke high score
+
 -unlock alle characters
 
-7. Progressie
+8. Progressie
 Leg uit hoe het spel moeilijker wordt naarmate de waves doorgaan. Denk aan sterkere vijanden, kortere tussenpozen, hogere kosten of lagere beloningen.
 Elke wave krijgt elke enemy 2 levens extra en spawnen er meer enemies. Betere heroes gaan steeds meer coins kosten en betere team ups gaan meer abillity fluid kosten.
 
-8. Risico’s en oplossingen volgens PIO
+9. Risico’s en oplossingen volgens PIO
 Probleem 1: Enemies volgen pad niet.
 
 Impact: De enemies lopen niet hoe ze horen te lopen
