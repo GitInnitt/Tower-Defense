@@ -8,17 +8,21 @@ Datum: 8/9/2025
 1. Titel en elevator pitch
 Titel: Marvel Defense
 
-Elevator pitch, maximaal twee zinnen: Een tower defense game met Marvel characters. Versla villains van de Marvel universe om coins te krijgen en sterke heroes te kopen. Om de abillities te doen moet je abillity fluid uitgeven. Elke wave krijg je er 2 en je kan max 20 abillity fluid bij je houden.
+Elevator pitch, maximaal twee zinnen: 
+
+Een tower defense game met Marvel characters. Versla villains van de Marvel universe om coins te krijgen en sterke heroes te kopen. Om de abillities te doen moet je abillity fluid uitgeven. Elke wave krijg je er 2 en je kan max 20 abillity fluid bij je houden.
 
 2. Wat maakt jouw tower defense uniek
+   
 Je speelt met en tegen iconische Marvel heroes in een tower defense game op Marvel themed maps. Tower troop combo's geven toegang tot speciale abillities
 
-3. Schets van je level en UI
+4. Schets van je level en UI
 Maak een schets op papier of digitaal en voeg deze afbeelding toe aan je repository. Voeg in deze sectie de afbeelding in.
 <img width="1162" height="673" alt="Tekening Game (Nieuw en goed)" src="https://github.com/user-attachments/assets/7bb1c1c1-7f41-476e-b502-fdbabb406dbd" />
 
 
-4. Torens
+5. Torens
+   
 Toren 1 naam: Front, bereik: ?, schade: begint bij 1 (wordt sterker na upgrades), unieke eigenschap.
 
 Toren 2 naam: Mid 1, bereik: ?, schade: begint bij 1 (wordt sterker na upgrades), unieke eigenschap.
@@ -28,6 +32,7 @@ Toren 3 naam: Mid 2, bereik: ?, schade: begint bij 1 (wordt sterker na upgrades)
 Toren 4 naam: Back, bereik: ?, schade: begint bij 1 (wordt sterker na upgrades), unieke eigenschap.
 
 5. Vijanden
+   
 Vijand 1 naam: Normal, snelheid: 4, levens: 10 (2 extra levens per wave), damage: 3, speciale eigenschap: N.V.T.
 
 Vijand 2 naam: Ranger, snelheid: 4, levens: 7 (2 extra levens per wave), damage: 2, speciale eigenschap: Schiet op afstand op towers met bommen, waardoor de tower kort gestunned worden.
@@ -48,9 +53,11 @@ Vijand 3 naam: Tank, snelheid: 2, levens: 15 (2 extra levens per wave), damage: 
 
 7. Progressie
 Leg uit hoe het spel moeilijker wordt naarmate de waves doorgaan. Denk aan sterkere vijanden, kortere tussenpozen, hogere kosten of lagere beloningen.
+
 Elke wave krijgt elke enemy 2 levens extra en spawnen er meer enemies. Betere heroes gaan steeds meer coins kosten en betere team ups gaan meer abillity fluid kosten.
 
 8. Risico’s en oplossingen volgens PIO
+    
 Probleem 1: Enemies volgen pad niet.
 
 Impact: De enemies lopen niet hoe ze horen te lopen
@@ -83,8 +90,11 @@ Sprint 4 mechanics: Abillity Fluid laten werken
 Sprint 5 mechanics: Laatste checks zodat alles werkt, mogelijk updates voor bestaande mechanics maken
 
 10. Inspiratie
+
 Heb geen specifieke tower defense game waar ik inspiratie van haal maar verschillende andere games
+
 -Marvel Rivals - Characters en enemies
+
 -Clash Royale - Abillity Fluid
 
 11. Technisch ontwerp mini
