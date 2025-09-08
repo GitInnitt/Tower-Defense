@@ -35,6 +35,7 @@ Vijand 2 naam: Ranger, snelheid: 4, levens: 7 (2 extra levens per wave), damage:
 Vijand 3 naam: Tank, snelheid: 2, levens: 15 (2 extra levens per wave), damage: 5, speciale eigenschap: is sterker dan normale zombies maar lopen wat slomer.
 
 6. Gameplay loop
+
 -Schiet enemies
 
 -Krijg coins voor enemies killen
@@ -45,11 +46,11 @@ Vijand 3 naam: Tank, snelheid: 2, levens: 15 (2 extra levens per wave), damage: 
 
 -unlock alle characters
 
-8. Progressie
+7. Progressie
 Leg uit hoe het spel moeilijker wordt naarmate de waves doorgaan. Denk aan sterkere vijanden, kortere tussenpozen, hogere kosten of lagere beloningen.
 Elke wave krijgt elke enemy 2 levens extra en spawnen er meer enemies. Betere heroes gaan steeds meer coins kosten en betere team ups gaan meer abillity fluid kosten.
 
-9. Risico’s en oplossingen volgens PIO
+8. Risico’s en oplossingen volgens PIO
 Probleem 1: Enemies volgen pad niet.
 
 Impact: De enemies lopen niet hoe ze horen te lopen
