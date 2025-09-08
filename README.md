@@ -16,12 +16,12 @@ Een tower defense game met Marvel characters. Versla villains van de Marvel univ
    
 Je speelt met en tegen iconische Marvel heroes in een tower defense game op Marvel themed maps. Tower troop combo's geven toegang tot speciale abillities
 
-4. Schets van je level en UI
+3. Schets van je level en UI
 Maak een schets op papier of digitaal en voeg deze afbeelding toe aan je repository. Voeg in deze sectie de afbeelding in.
 <img width="1162" height="673" alt="Tekening Game (Nieuw en goed)" src="https://github.com/user-attachments/assets/7bb1c1c1-7f41-476e-b502-fdbabb406dbd" />
 
 
-5. Torens
+4. Torens
    
 Toren 1 naam: Front, bereik: ?, schade: begint bij 1 (wordt sterker na upgrades), unieke eigenschap.
 
