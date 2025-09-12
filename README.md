@@ -103,13 +103,6 @@ Heb geen specifieke tower defense game waar ik inspiratie van haal maar verschil
 Lees dit korte voorbeeld en vul daarna jouw eigen keuzes in.
 (Maak deze later)
 
-Voorbeeld ingevuld bij 11.1 Vijandbeweging over het pad
-
-Keuze: Vijanden volgen punten A, B, C en daarna de goal.
-Risico: Een vijand loopt een punt voorbij of blijft hangen.
-Oplossing: Als de vijand dichtbij genoeg is kiest hij het volgende punt. Bij de goal gaat één leven omlaag en verdwijnt de vijand.
-Acceptatie: Tien vijanden lopen van start naar de goal zonder vastlopers en verbruiken elk één leven. Alle tien vijanden bereiken achtereenvolgens elk waypoint binnen één seconde na elkaar.
-
 11.1 Vijandbeweging over het pad
 
 Keuze: De enemy waypoints laten volgen tot de eindbestemming.
